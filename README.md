@@ -29,7 +29,6 @@
 <h2><img height="20" src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" /> Let's Connect</h2>
 
 <div>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://discord.gg/9rYbc54KtY"><img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" height="40px" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/yuvrajsinh-gohil099/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="40px" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://x.com/Yuvrajsinh_099"><img src="https://seeklogo.com/images/T/twitter-x-logo-0339F999CF-seeklogo.com.png?v=638264860180000000" height="40px" /></a>
 </div>
