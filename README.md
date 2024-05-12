@@ -6,7 +6,7 @@
 
 - 📖 I am a 2nd year Computer Science student @ [Nirma University](https://nirmauni.ac.in/)
 - ✨ Open source is something I'm interested in.
-- 🛠️ I am interested in making web application and termial apps
+- 🛠️ I am interested in making web application and terminal apps
 - [<img src="https://wiki.installgentoo.com/images/f/f9/Arch-linux-logo.png" height="18em" align="center" alt="Arch Linux Logo" title="Arch Linux Logo"/>](https://archlinux.org/) btw I use Arch 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=yuvrajsinh5252&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" /></p>
