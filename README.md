@@ -3,7 +3,7 @@
   I'm Yuvrajsinh Gohil!
 </h2>
 
-<p align="center"><img width="900" height="300" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" /></p>
+<img width=100% height=30% align="center" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
 
@@ -12,8 +12,10 @@
 - 🛠️ I am interested in making web application and terminal apps
 - [<img src="https://wiki.installgentoo.com/images/f/f9/Arch-linux-logo.png" height="16em" align="center" alt="Arch Linux Logo" title="Arch Linux Logo"/>](https://archlinux.org/) btw I use Arch 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=yuvrajsinh5252&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuvrajsinh5252&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true&layout=compact" /></p></br>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=yuvrajsinh5252&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuvrajsinh5252&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true&layout=compact" />
+</p>
 
 ## <img height="24" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" /> Skills
 
