@@ -13,8 +13,8 @@
 - [<img src="https://wiki.installgentoo.com/images/f/f9/Arch-linux-logo.png" height="16em" align="center" alt="Arch Linux Logo" title="Arch Linux Logo"/>](https://archlinux.org/) btw I use Arch 
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=yuvrajsinh5252&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuvrajsinh5252&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yuvrajsinh5252&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yuvrajsinh5252&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true&layout=compact" />
 </p>
 
 ## <img height="24" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" /> Skills
