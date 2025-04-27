@@ -10,7 +10,7 @@
 - 📖 3rd year Computer Science student @ [Nirma University](https://nirmauni.ac.in/)
 - ✨ Open source is something I'm interested in.
 - 🛠️ I am interested in making web application and terminal apps
-- [<img src="https://skillicons.dev/icons?i=nix" height="16em" align="center" alt="Arch Linux Logo" title="Arch Linux Logo"/>](https://nixos.org/) btw I use NixOS
+- [<img src="https://skillicons.dev/icons?i=nix" height="16em" align="center" alt="Nixos Logo" title="Nixos Logo"/>](https://nixos.org/) btw I use NixOS
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=yuvrajsinh5252&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" />
@@ -19,7 +19,7 @@
 
 ## <img height="24" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" /> Skills
 
-  <img src="https://skillicons.dev/icons?i=ts,js,python,c,cpp,bash,react,elysia,nextjs,docker,vim" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,c,cpp,bash,react,elysia,nextjs,tailwind,docker,vim" />
 
 ## <img height="20" src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" /> Let's Connect
 
